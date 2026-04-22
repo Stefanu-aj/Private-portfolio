@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root {
+  font-family: 'Lora', sans-serif;;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #10031A;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.nav-links {
+  color: #fff;
+  font-size: .9em;
+  font-weight: 500;
+}
+
+.hero-title {
+  font-size: 2em;
+}
+
+.regular-text {
+  font-size: .8em;
+  font-weight: 300;
+}
+
+.hero-btn {
+  margin: 0 auto;
+  width: 8vw;
+  border: 1px solid white;
+  border-radius: 50px;
+  letter-spacing: 2px;
+  font-weight: 300;
+  color: #fff;
+}
+
+.contact-links {
+  color: #fff;
+  font-weight: 300;
+  font-size: .6em;
+}
